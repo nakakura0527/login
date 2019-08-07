@@ -1,13 +1,14 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <%@ taglib prefix="s" uri="/struts-tags"%>
-<!DOCTYPE html>
+<!DOCTYPE>
 <html>
 <head>
-	<meta charset="utf-8">
-	<title>ログイン成功画面</title>
+<meta charset="UTF-8">
+<title>HelloStrutsError</title>
 </head>
 <body>
- <h1>ログインに成功しました。</h1>
+<h1>エラーが発生しました</h1>
+<br>
 </body>
 </html>
